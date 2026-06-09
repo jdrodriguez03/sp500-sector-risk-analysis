@@ -21,7 +21,8 @@ normal market conditions and crisis periods.
 *2019 is included as a pre-crisis baseline.*
 
 ## Repository Structure
-'''
+
+```
 sp500-analysis/
 ├── data/
 │   └── raw/
@@ -31,7 +32,8 @@ sp500-analysis/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-'''
+```
+
 ## Setup
 ```bash
 conda create -n sp500-analysis python=3.11
